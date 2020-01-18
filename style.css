@@ -1,0 +1,97 @@
+.Roon {
+    display: flex;
+    justify-content: space-between;
+}
+.caard{
+    display: flex;
+
+}
+.credit{
+    margin-right: 7px;
+}
+.punten {
+    margin-right: 20px;
+    margin-top: 4px;
+}
+.miroor{
+    display: flex;
+    position: absolute;
+    left: 0px;
+}
+
+
+.keuzen1{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(2, 12, 56);
+    padding-bottom: 366px;
+    padding-left: 8px;
+    padding-right: 19px;
+    padding-top: 20px;
+    justify-content: space-evenly;
+
+
+ 
+}
+.module{
+    display: flex;
+    flex-direction: row;
+    margin-top: -1px;
+    margin-left:29px ;
+    font-size: 49px;
+    color: white;
+}
+
+.id{
+    opacity: 20%;
+}
+.derij{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -69px;
+    margin-top: 168px;
+    font-size: 23px;
+
+
+}
+.tweede{
+    margin-left: 301px;
+
+}
+.derde{
+    margin-left: 272px;
+
+}
+.block{
+    position: absolute;
+    top: 47px;
+    z-index: -1;
+}
+.house {
+    padding-bottom: 20px;
+}
+.baseline{
+    padding-bottom: 20px;
+}
+.star{
+    padding-bottom: 20px;
+}
+.checkbox{
+    padding-bottom: 20px;
+}
+.people{
+    padding-bottom: 20px;
+}
+a:link, a:visited {
+    display: none;
+    background-color: rgb(2, 12, 56);
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  a:hover, a:active {
+    background-color: rgb(53, 94, 182);
+    height: 50px;
+  }
