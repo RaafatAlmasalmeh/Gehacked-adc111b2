@@ -4,27 +4,23 @@
 }
 .caard{
     display: flex;
-    position: absolute;
-    left: 1400px;
 
 }
 .credit{
     margin-right: 7px;
 }
 .punten {
-    margin-right: 40px;
+    margin-right: 20px;
     margin-top: 4px;
-    position: absolute;
-    left: 1398px;
 }
-.miroor{
+.imgs{
     display: flex;
     position: absolute;
     left: 0px;
 }
 
 
-.keuzen1{
+.foto{
     display: flex;
     flex-direction: column;
     background-color: rgb(2, 12, 56);
@@ -49,12 +45,12 @@
 .id{
     opacity: 20%;
 }
-.derij{
+.eentweedrie{
     display: flex;
     justify-content: space-evenly;
     margin-left: -69px;
-    margin-top: 168px;
-    font-size: 23px;
+    margin-top: 169px;
+    font-size: 22px;
 
 
 }
@@ -71,16 +67,16 @@
     top: 47px;
     z-index: -1;
 }
-.house {
+.home {
     padding-bottom: 20px;
 }
-.baseline{
+.code{
     padding-bottom: 20px;
 }
 .star{
     padding-bottom: 20px;
 }
-.checkbox{
+.maar{
     padding-bottom: 20px;
 }
 .people{
